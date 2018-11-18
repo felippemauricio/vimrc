@@ -1,4 +1,4 @@
-# .vimrc - Felippe`s Ultimate Vim Configuration
+# .vimrc
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/felippemauricio/vimrc)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/felippemauricio/vimrc/pulls)
