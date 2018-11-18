@@ -21,6 +21,7 @@ Plugin 'valloric/MatchTagAlways'
 call vundle#end()
 filetype plugin indent on
 
+
 syntax on
 set number
 set noswapfile
@@ -33,13 +34,19 @@ set shiftwidth=2
 set hlsearch
 map <C-x> :noh<CR>
 
-colorscheme codedark
-let g:airline_theme = 'codedark'
+
+try
+  colorscheme codedark
+  let g:airline_theme = 'codedark'
+  catch 
+endtry
+
 
 map <C-a> :NERDTreeToggle<CR>
 let NERDTreeIgnore=['\.git$', '\~$', '\.DS_Store$']
 let NERDTreeShowHidden=1
 let NERDTreeMapOpenInTab='<C-t>'
+
 
 set wildignore+=*/node_modules/*,*/tmp/*,*.so,*.swp,*.zip 
 
