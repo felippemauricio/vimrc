@@ -20,17 +20,16 @@ Over the last 2 year, I have used and tweaked Vim. This is my configuration, to 
 
 # Vim Plugins at this project
 
-- 'airblade/vim-gitgutter'
-- 'bling/vim-airline'
-- 'editorconfig/editorconfig-vim'
-- 'scrooloose/nerdtree'
-- 'terryma/vim-multiple-cursors'
-- 'tpope/vim-eunuch'
-- 'w0rp/ale'
-- 'vim-airline/vim-airline-themes'
-- 'tomasiser/vim-code-dark'
-- 'kien/ctrlp.vim'
-- 'sheerun/vim-polyglot'
-- 'tpope/vim-commentary'
-- 'valloric/MatchTagAlways'
- 
+- [ale](https://github.com/w0rp/ale)
+- [ctrlp.vim](https://github.com/kien/ctrlp.vim)
+- [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim)
+- [MatchTagAlways](https://github.com/Valloric/MatchTagAlways)
+- [nerdtree](https://github.com/scrooloose/nerdtree)
+- [vim-airline](https://github.com/vim-airline/vim-airline)
+- [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
+- [vim-code-dark](https://github.com/tomasiser/vim-code-dark)
+- [vim-commentary](https://github.com/tpope/vim-commentary)
+- [vim-eunuch](https://github.com/tpope/vim-eunuch)
+- [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+- [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
+- [vim-polyglot](https://github.com/sheerun/vim-polyglot)
