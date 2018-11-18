@@ -5,7 +5,7 @@
 
 Over the last 2 year, I have used and tweaked Vim. This is my configuration, to save this file and learn more
 
-![](https://cdn-images-1.medium.com/max/2000/1*j4jvP-ihFi0H06uDJX806w.png)
+![](https://raw.githubusercontent.com/felippemauricio/vimrc/master/docs/img/my_vim.png)
 
 ## What do you need?
 
