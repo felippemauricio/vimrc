@@ -10,13 +10,14 @@ Over the last 2 year, I have used and tweaked Vim. This is my configuration, to 
 ## What do you need?
 
 - git
-- vundle
 
 ## How to install?
 
-- Install Vundle;
-- Copy the `.vimrc` file to your folder(`~/<user-name>`);
-- Run `:PluginInstall` on Vim;
+Run the `install.sh` file.
+
+```
+./install.sh
+```
 
 ## Vim Plugins at this project
 
@@ -33,3 +34,4 @@ Over the last 2 year, I have used and tweaked Vim. This is my configuration, to 
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 - [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot)
+
