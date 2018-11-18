@@ -18,7 +18,7 @@ Over the last 2 year, I have used and tweaked Vim. This is my configuration, to 
 - Copy the `.vimrc` file to your folder(`~/<user-name>`);
 - Run `:PluginInstall` on Vim;
 
-# Vim Plugins at this project
+## Vim Plugins at this project
 
 - [ale](https://github.com/w0rp/ale)
 - [ctrlp.vim](https://github.com/kien/ctrlp.vim)
