@@ -1,6 +1,9 @@
 # .vimrc
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/felippemauricio/vimrc/pulls)
+[![Platform](https://img.shields.io/badge/platform-osx-lightgrey.svg)](https://www.apple.com/lae/macos/mojave/)
+[![IDE Style](https://img.shields.io/badge/IDE%20style-visual%20studio%20code-blue.svg)](https://github.com/Microsoft/vscode)
+
 
 Over the last 2 year, I have used and tweaked Vim. This is my configuration, to save this file and learn more
 
