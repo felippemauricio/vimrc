@@ -1,6 +1,5 @@
 # .vimrc
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/felippemauricio/vimrc)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/felippemauricio/vimrc/pulls)
 
 Over the last 2 year, I have used and tweaked Vim. This is my configuration, to save this file and learn more
