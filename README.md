@@ -33,6 +33,7 @@ Run the `install.sh` file.
 - [vim-code-dark](https://github.com/tomasiser/vim-code-dark)
 - [vim-commentary](https://github.com/tpope/vim-commentary)
 - [vim-eunuch](https://github.com/tpope/vim-eunuch)
+- [vim-fugitive](https://github.com/tpope/vim-fugitive)
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 - [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot)

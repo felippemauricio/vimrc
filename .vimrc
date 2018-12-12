@@ -17,6 +17,7 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'sheerun/vim-polyglot'
 Plugin 'tpope/vim-commentary'
 Plugin 'valloric/MatchTagAlways'
+Plugin 'tpope/vim-fugitive'
 
 call vundle#end()
 filetype plugin indent on
