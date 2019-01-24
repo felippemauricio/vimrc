@@ -36,6 +36,9 @@ set hlsearch
 map <C-x> :noh<CR>
 
 
+xnoremap p pgvy
+
+
 try
   colorscheme codedark
   let g:airline_theme = 'codedark'
