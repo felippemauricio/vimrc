@@ -18,6 +18,8 @@ Plugin 'sheerun/vim-polyglot'
 Plugin 'tpope/vim-commentary'
 Plugin 'valloric/MatchTagAlways'
 Plugin 'tpope/vim-fugitive'
+Plugin 'mileszs/ack.vim'
+Plugin 'skammer/vim-swaplines'
 
 call vundle#end()
 filetype plugin indent on

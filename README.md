@@ -23,6 +23,7 @@ Run the `install.sh` file.
 
 ## Vim Plugins at this project
 
+- [ack](https://github.com/mileszs/ack.vim)
 - [ale](https://github.com/w0rp/ale)
 - [ctrlp.vim](https://github.com/kien/ctrlp.vim)
 - [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim)
@@ -37,4 +38,4 @@ Run the `install.sh` file.
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 - [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot)
-
+- [vim-swaplines](https://github.com/skammer/vim-swaplines)
