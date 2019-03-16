@@ -29,6 +29,7 @@ Run the `install.sh` file.
 - [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim)
 - [MatchTagAlways](https://github.com/Valloric/MatchTagAlways)
 - [nerdtree](https://github.com/scrooloose/nerdtree)
+- [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
 - [vim-airline](https://github.com/vim-airline/vim-airline)
 - [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
 - [vim-code-dark](https://github.com/tomasiser/vim-code-dark)
