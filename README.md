@@ -40,3 +40,15 @@ Run the `install.sh` file.
 - [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors)
 - [vim-polyglot](https://github.com/sheerun/vim-polyglot)
 - [vim-swaplines](https://github.com/skammer/vim-swaplines)
+
+## Shortcuts
+
+- `Control + a`: Open and close tree
+- `Control + n`: Multiple cursors
+- `Control + p`: Find files
+- `Control + t`: Open file in new tab
+- `Control + x`: Remove hypertext after search
+- `Control + Shift + Arrow Up`: Move line to up
+- `Control + Shift + Arrow Down`: Move line to down
+- `gc`: Comment and discomment lines
+- `m`: Create, Rename or delete files on Tree
