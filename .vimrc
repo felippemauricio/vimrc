@@ -63,7 +63,7 @@ xnoremap p pgvy
 map <C-a> :NERDTreeToggle<CR>
 
 " Ignore folders
-let NERDTreeIgnore=['\.git$', '\~$', '\.DS_Store$']
+let NERDTreeIgnore=['\.git$', '\.DS_Store$']
 
 " Open file on new tab with Control + t
 let NERDTreeMapOpenInTab='<C-t>'
@@ -73,6 +73,9 @@ let NERDTreeQuitOnOpen = 1
 
 " Delete the buffer when delete file
 let NERDTreeAutoDeleteBuffer = 1
+
+" List dot files
+let NERDTreeShowHidden=1
 
 " Open with current directory
 autocmd StdinReadPre * let s:std_in=1
