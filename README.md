@@ -1,5 +1,6 @@
 # .vimrc
 
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/felippemauricio/vimrc/pulls)
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos-lightgrey.svg)](https://www.apple.com/lae/macos/mojave/)
 [![IDE Style](https://img.shields.io/badge/IDE%20style-visual%20studio%20code-blue.svg)](https://github.com/Microsoft/vscode)
